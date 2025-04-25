@@ -1,3 +1,4 @@
+[←𝗚𝗼 𝗕𝗮𝗰𝗸](https://dtx-byte.github.io/Dxt_EDMPortfolio/)
 # [Finals-Lab-Task-2](https://github.com/Dtx-byte/Final-Lab-Task-2/blob/main/Images/Dexter_FLT2.docx)
 - This portfolio demonstrates my understanding of MySQL database creation using a simplified student assignment submission system. It covers the step-by-step creation of tables representing students, assignments, and their submissions. This exercise applies data types, relationships, and constraints like primary keys, foreign keys, and composite keys to build a fully functional relational schema.
 
